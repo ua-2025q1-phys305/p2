@@ -10,6 +10,8 @@ You must form teams of 3 to 6 people.
 Presentations will be scheduled for April 29th or May 1st, and the
 final code and documentation are due exactly **one week after your
 presentation**, by 11:59pm (Arizona time).
+Projects that are presented on April 29th will receive two points
+extra credits.
 Code submission is handled by GitHub classroom.
 Please use [this link](https://classroom.github.com/a/___) to
 join a project.
