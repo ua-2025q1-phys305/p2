@@ -13,7 +13,7 @@ presentation**, by 11:59pm (Arizona time).
 Projects that are presented on April 29th will receive two points
 extra credits.
 Code submission is handled by GitHub classroom.
-Please use [this link](https://classroom.github.com/a/___) to
+Please use [this link](https://classroom.github.com/a/KMYdNApn) to
 join a project.
 
 You are encuraged to form different teams than project 1.
